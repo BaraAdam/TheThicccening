@@ -1,2 +1,10 @@
 # TheThicccening
-Repository for The Thicccening, a video game project by Adam Schneider, Kraig Denny, and Weston Greene
+
+## Intro
+
+## Description
+The Thicccening is a unity Game Project by me.
+
+## Tutorial
+
+NOTE: to run the game, run ThiccceningDemo.exe, which can be found in theTheThicccening-master/ThiccceningDemoBuild directory
