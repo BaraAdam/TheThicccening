@@ -11,5 +11,6 @@ Finish fast! Even one of those flabby evildoers is enough to jeopardize the heal
 The Thicccening is a Unity Game Project by me, created as a project by me.  This was a group project however I created all of the code for this project, with my teamates focusing on conceptual game design and asset creation.  It is a tower defense game in which you have to defend planet Earth against a horde of aliens called "Thiccclings".
 
 ## Tutorial
+Buy turrets from the shop to defend against the Thiccclings, once you have defeated enough waves of Thiccclings you may proceed to the next level.  Your HP is displayed at the top of the screen, if your HP reaches 0 it's game over!
 
 NOTE: to run the game, run ThiccceningDemo.exe, which can be found in ThiccceningDemoBuild directory
